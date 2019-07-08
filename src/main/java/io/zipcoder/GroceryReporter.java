@@ -58,6 +58,7 @@ public class GroceryReporter {
     public HashMap<String, Double> mapMap() {
         Map<String, Double> itemMap = new HashMap<>();
         List<String> listOne = inputSeperator();
+
         return null;
     }
 
@@ -66,7 +67,7 @@ public class GroceryReporter {
     }
 
 
-
+    //Seriously, fuck this lab!
 
 
     public String getOriginalFileText() {
