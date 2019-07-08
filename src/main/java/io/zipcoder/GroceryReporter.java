@@ -58,7 +58,6 @@ public class GroceryReporter {
     public HashMap<String, Double> mapMap() {
         Map<String, Double> itemMap = new HashMap<>();
         List<String> listOne = inputSeperator();
-        List<String> listTwo = inputSeperator(); 
         return null;
     }
 
